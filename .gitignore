@@ -1,5 +1,4 @@
 bin/
 obj/
-Migrations/
 appsettings.json
 appsettings.Development.json
