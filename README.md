@@ -43,8 +43,9 @@ The **Event Manager System** is an ASP.NET Core MVC application designed to help
 ### Steps to Run Locally
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/EventManager.git
-    cd EventManager
+    git clone "link" or clone from IDE directly if using Vscode.
+   After cloning delete the .sln file which will pop up and proceed. This is so you wont need to specify the project.
+    It should be called "MyMVCApp.csproj"
     ```
 2. **Restore dependencies**:
     ```sh
